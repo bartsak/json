@@ -1,14 +1,14 @@
 {
   "points": {
     "eat": [
-      { title: 'Дербентский рынок', latitude: 42.055557, longitude: 48.287724 },
-      { title: 'Каспийский рынок', latitude: 42.885465, longitude: 47.634727 },
-      { title: 'Рынок северный', latitude: 42.965153, longitude: 47.390255 }
+      { "title": "Дербентский рынок", "latitude": 42.055557, "longitude": 48.287724 },
+      { "title": "Каспийский рынок", "latitude": 42.885465, "longitude": 47.634727 },
+      { "title": "Рынок северный", "latitude": 42.965153, "longitude": 47.390255 }
     ],
     "walk": [
-      { title: 'Патриот', latitude: 41.941488, longitude: 48.379441 },
-      { title: 'Парк культуры и отдыха', latitude: 42.389954, longitude: 47.980583 },
-      { title: 'парк культуры и отдыха', latitude: 43.164284, longitude: 47.056779 }
+      { "title": "Патриот", "latitude": 41.941488, "longitude": 48.379441 },
+      { "title": "Парк культуры и отдыха", "latitude": 42.389954, "longitude": 47.980583 },
+      { "title": "парк культуры и отдыха", "latitude": 43.164284, "longitude": 47.056779 }
     ]
   }
 }
